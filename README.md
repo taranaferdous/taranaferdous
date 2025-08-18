@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 My Ph.D. research: I worked on multiple clinical trials involving emerging tobacco products, specifically evaluating the effects of different nicotine concentrations, flavors, health warning label on the puffing topography, toxicant exposure, clinical outcomes, and subjective indices of young e-cigarette users.
-- 🎓 My Ph.D. progress: As of June 2025, I have defended my Ph.D. dissertation and submitted my two papers on aims 2 and 3. Last year, my first aim manuscript was published in JAMA Network. 
+- 🔭 My Ph.D. research: I worked on multiple clinical trials involving emerging tobacco products, specifically evaluating the effects of different nicotine concentrations, flavors, health warning labels on the puffing topography, toxicant exposure, clinical outcomes, and subjective indices of young e-cigarette users. I have submitted my two papers on my Ph.D. thesis aims, and in 2024, my first manuscript was published in the JAMA Network Open journal. 
+- 🎓 My Ph.D. progress: As of August 2025, I have received my Ph.D. in Public Health with an Epidemiology concentration. I have received the Outstanding Graduate Award and Dean's Excellence Award for Summer 2025. 
 - 🌱 My skills: Public health data analysis using R, literature, and manuscript reviewing and writing; preparing databases like REDCap for data collection; leading clinical trials; managing data collection, verification, and monitoring; preparing standard operating procedures and protocols; and training junior graduate assistants.
 - 🌱 My experiences: Pharmacist by training, with professional experience as a public health epidemiologist since 2014, contributing to evidence-based global real-world data research with an area of expertise in observational and experimental studies in different health science domains (tobacco control, nutrition of pregnant woman, air pollution, and health data systems).
 - 🌱 I’m currently learning: *multiple things* including the toxicology profile of e-cigarette components, SQL, R-shiny tools, and machine learning in public health research.
